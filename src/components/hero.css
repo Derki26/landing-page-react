@@ -1,0 +1,12 @@
+.post-img video {
+    width: 20%;
+    object-fit: cover;
+}
+
+.post-video{
+    width: 400px;
+    height: 300px;
+    padding: 0;
+    display: flex;
+    width: 450px;
+    }
